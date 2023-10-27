@@ -1,7 +1,7 @@
 <img align="center" width="100%" height="250px" alt="while(life!=left){cout<<'programming.....'}" width="40%" src="/jebaGitbanner.gif">
 <h1 align="center">Hi 👋, I'm Fardouse Jeba</h1>
 <h3 align="center">........ I am a developer from anywhere who is passionate about work .........</h3>
-<img align="right" alt="while(life!=left){cout<<'programming.....'}" width="40%" src="/jebaGIthub.gif.gif">
+<img align="right" alt="while(life!=left){cout<<'programming.....'}" width="40%" src="/jebaGIthub.gif">
 
 
 ## 💫 About Me
